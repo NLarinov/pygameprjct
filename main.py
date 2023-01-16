@@ -234,7 +234,7 @@ if __name__ == '__main__':
     pygame.init()
 
     display_surface = pygame.display.set_mode((WWIDTH, WHEIGHT))
-    pygame.display.set_caption('Pygame Flappy Brd')
+    pygame.display.set_caption('Cool Flappy Brd')
     difficulty = 'Normal'
 
 
